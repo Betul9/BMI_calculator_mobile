@@ -105,7 +105,7 @@ public class MainActivity extends AppCompatActivity {
         else if(resultnum >= 18.5 && resultnum < 25)
             result.setText("Normal");
         else if(resultnum >= 25 && resultnum < 30)
-            result.setText("Owerweight");
+            result.setText("Overweight");
         else if(resultnum >= 30 && resultnum < 35)
             result.setText("Obese");
         else if(resultnum >= 35)
